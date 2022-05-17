@@ -1,9 +1,9 @@
-# j03 - Instant<sup>:tm:</sup> Vortex<sup>:tm:</sup> Plus 10-quart Air Fryer Oven
+# j03 - Instant<sup>TM</sup> Vortex<sup>TM</sup> Plus 10-quart Air Fryer Oven
 ## By Juan Aguirre-Ayala - 5/17/2022
 
 ![image](../assets/air-fryer.jpg)
 
-The Instant<sup>:tm:</sup> Vortex<sup>:tm:</sup> Plus 10-quart Air Fryer Oven is something my family picked up after the previous air fryer that we owned stopped working. It's advertised as sleek, versatile, and convenient, so I wanted to evaluate the usability of the interface panel when trying to get something cooked. 
+The Instant<sup>TM</sup> Vortex<sup>TM</sup> Plus 10-quart Air Fryer Oven is something my family picked up after the previous air fryer that we owned stopped working. It's advertised as sleek, versatile, and convenient, so I wanted to evaluate the usability of the interface panel when trying to get something cooked. 
 
 ![image](../assets/air-fryer-interface.jpg)
 
