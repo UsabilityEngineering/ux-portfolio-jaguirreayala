@@ -11,7 +11,7 @@ The customizability is a big plus for me. While I don't have any issues with how
 
 ![image](../assets/home.png)
 
-So, the software requires me to have my controller plugged in so it can sync any changes I make in the software to the controller's hardware. I'm prompted with the three main platforms that are supported on the controller. Simple and to the point, which I feel is **efficient** in terms of the target audience. If someone realizes something is off with their mapping, they can quickly plug in, launch the software, and they aren't bombarded with unnecessary stuff. It's a bit refreshing since most software that comes with peripherals (printers, keyboards, mice) these days will tend to take up a lot of space, bombard you with unnecessary stuff, and overall be a drag to work with. 
+The software requires me to have my controller plugged in so it can sync any changes I make in the software to the controller's hardware. I'm prompted with the three main platforms that are supported on the controller. Simple and to the point, which I feel is **efficient** in terms of the target audience. If someone realizes something is off with their mapping, they can quickly plug in, launch the software, and they aren't bombarded with unnecessary stuff. It's a bit refreshing since most software that comes with peripherals (printers, keyboards, mice) these days will tend to take up a lot of space, bombard you with unnecessary stuff, and overall be a drag to work with. 
 
 ![image](../assets/mappings.png)
 
